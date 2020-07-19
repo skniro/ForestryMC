@@ -173,7 +173,6 @@ task apiJar(type: Jar) {
 }
 
 artifacts {
-	archives sourcesJar
 	archives apiJar
 }
 
